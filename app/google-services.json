@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "14854720472",
+    "firebase_url": "https://video-project-95f7e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "video-project-95f7e",
+    "storage_bucket": "video-project-95f7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14854720472:android:36513d34405ee1771180ad",
+        "android_client_info": {
+          "package_name": "com.example.bt10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi9zdqkBF4X0Ex7IVSuYQMG_s1CCPCIcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
